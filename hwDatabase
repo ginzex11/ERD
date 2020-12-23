@@ -1,0 +1,24 @@
+Assembly line for bicycle factory
+_________________________________
+
+query: workforce 
+
+user types: worker, maneger, owner,...
+
+
+
+
+
+
+query: production line
+
+user types: supplier, сostumer
+
+
+
+write the database in mysql;
+write 12 select commands:
+1)
+2)
+3)
+4)
