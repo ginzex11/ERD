@@ -1,19 +1,27 @@
 Assembly line for bicycle factory
 _________________________________
 
-query: workforce 
+summary:
+......
+
+///////////////////////////////////////
+
+ERD: workforce 
 
 user types: worker, maneger, owner,...
 
 
 
-///////////////////////
+///////////////////////////////////////
 
-
-query: production line
+ERD: production line
 
 user types: supplier, сostumer
 
+
+
+
+///////////////////////////////////////
 
 
 write the database in mysql;
@@ -22,4 +30,4 @@ write 12 select commands:
 2)
 3)
 4)
-5)check
+5)
